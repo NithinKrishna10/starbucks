@@ -1,0 +1,101 @@
+.bodystyle{
+    width: 90%;
+    margin: 0 auto;
+   
+}
+/* =============== Navbar End ================= */
+.navbar button {
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  color: var(--text-color);
+  font-weight: 500;
+}
+.h1{
+  font-size: small;
+}
+ .navbar button {
+  
+  
+  font-size: 1.2rem;
+ 
+  color: var(--text-color);
+  font-weight: 400;
+} 
+.navbar a{
+  font-weight: bold;
+  color: black;
+}
+.navbar a:hover {
+  color: green;
+}
+/* .nav-end{
+  font-size: 1.5rem;
+  justify-content: space-between;
+} */
+/* .nav-end button{
+   margin-left: .5rem; 
+}  */
+.main{
+    width: 95%;
+    height: auto;
+    margin: 0 auto;
+    background-color: #d4e9e2
+}
+
+.second{
+    width: 95%;
+    margin: 0 auto;
+    background-color: #006241;
+}
+.third
+{
+    margin: 0 auto;
+    width: 95%;
+    background-color:  #006241;
+}
+.text-center{
+    padding-top: 10%;
+}
+.center {
+    display: block;
+    margin: 0 auto;
+   
+  }
+  .last{
+    width: 94%;
+    padding: 1%;
+    margin: 0 auto;
+  }
+  .link{
+    text-decoration: none;
+    color: black;
+  }
+ 
+  .disclamer{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+    padding: 0;
+    text-align: center;
+    
+  }
+  .list{
+    padding-top: 1rem;
+    line-height: initial;
+    font-size: large;
+  }
+  .last ul:hover{
+    color: var(--text-color);
+  }
+  .footer-social a i{
+    color: rgb(10, 26, 208);
+    font-size: 25px;
+    margin-left: 3rem;
+    text-align: center;
+    line-height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
